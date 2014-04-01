@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="21" selection-start="4255" selection-end="4255" vertical-scroll-proportion="0.29831144" vertical-offset="1609" max-vertical-offset="5134">
+            <state line="107" column="44" selection-start="4372" selection-end="4372" vertical-scroll-proportion="-3.1176472" vertical-offset="1660" max-vertical-offset="5134">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="couponcreation.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/couponcreation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="95" column="40" selection-start="3227" selection-end="3227" vertical-scroll-proportion="0.34311926" vertical-offset="1428" max-vertical-offset="8738">
               <folding />
             </state>
           </provider>
@@ -53,7 +62,9 @@
       <list>
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/profile.html" />
+        <option value="$PROJECT_DIR$/form_wizard.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/couponcreation.html" />
       </list>
     </option>
   </component>
@@ -219,7 +230,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="398" column="46" selection-start="16445" selection-end="16445" vertical-scroll-proportion="0.0" vertical-offset="6593" max-vertical-offset="20893" />
+        <state line="398" column="46" selection-start="16445" selection-end="16445" vertical-scroll-proportion="0.0" vertical-offset="6593" max-vertical-offset="20893">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
@@ -280,12 +293,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="398" column="46" selection-start="16445" selection-end="16445" vertical-scroll-proportion="0.5045872" vertical-offset="6491" max-vertical-offset="20893" />
+        <state line="398" column="46" selection-start="16445" selection-end="16445" vertical-scroll-proportion="0.5045872" vertical-offset="6491" max-vertical-offset="20893">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="21" selection-start="4255" selection-end="4255" vertical-scroll-proportion="0.29831144" vertical-offset="1609" max-vertical-offset="5134">
+        <state line="107" column="44" selection-start="4372" selection-end="4372" vertical-scroll-proportion="-3.1176472" vertical-offset="1660" max-vertical-offset="5134">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/couponcreation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="40" selection-start="3227" selection-end="3227" vertical-scroll-proportion="0.34311926" vertical-offset="1428" max-vertical-offset="8738">
           <folding />
         </state>
       </provider>
