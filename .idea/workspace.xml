@@ -23,19 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="20" selection-start="3898" selection-end="5003" vertical-scroll-proportion="-7.076923" vertical-offset="1601" max-vertical-offset="5338">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profile.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="profile.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="286" column="10" selection-start="11325" selection-end="11325" vertical-scroll-proportion="0.03119266" vertical-offset="4845" max-vertical-offset="17612">
+            <state line="286" column="10" selection-start="11325" selection-end="11325" vertical-scroll-proportion="-16.346153" vertical-offset="4437" max-vertical-offset="17612">
               <folding />
             </state>
           </provider>
@@ -44,7 +35,7 @@
       <file leaf-file-name="editable_table.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/editable_table.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="10" selection-start="3831" selection-end="3831" vertical-scroll-proportion="-0.65384614" vertical-offset="1938" max-vertical-offset="11798">
+            <state line="90" column="19" selection-start="3007" selection-end="3007" vertical-scroll-proportion="-3.9230769" vertical-offset="1428" max-vertical-offset="11798">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#li#0;n#ul#0;n#li#0;n#ul#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#li#3;n#ul#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -66,7 +57,7 @@
       <file leaf-file-name="couponcreation.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/couponcreation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="37" selection-start="3670" selection-end="3670" vertical-scroll-proportion="-9.846154" vertical-offset="1580" max-vertical-offset="8942">
+            <state line="94" column="34" selection-start="3160" selection-end="3160" vertical-scroll-proportion="-4.6153846" vertical-offset="1478" max-vertical-offset="8942">
               <folding />
             </state>
           </provider>
@@ -75,7 +66,25 @@
       <file leaf-file-name="couponshistory.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/couponshistory.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="569" column="0" selection-start="24515" selection-end="24515" vertical-scroll-proportion="-155.13725" vertical-offset="1761" max-vertical-offset="14671">
+            <state line="111" column="34" selection-start="3820" selection-end="3820" vertical-scroll-proportion="-7.470588" vertical-offset="1506" max-vertical-offset="14671">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="47" selection-start="4160" selection-end="4160" vertical-scroll-proportion="0.20788531" vertical-offset="1601" max-vertical-offset="5338">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="260" column="18" selection-start="12307" selection-end="12307" vertical-scroll-proportion="-6.8076925" vertical-offset="4243" max-vertical-offset="22899">
               <folding />
             </state>
           </provider>
@@ -94,13 +103,13 @@
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/form_wizard.html" />
         <option value="$PROJECT_DIR$/form_validation.html" />
-        <option value="$PROJECT_DIR$/couponcreation.html" />
         <option value="$PROJECT_DIR$/dynamic_table.html" />
-        <option value="$PROJECT_DIR$/couponshistory.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/editable_table.html" />
         <option value="$PROJECT_DIR$/lock_screen.html" />
         <option value="$PROJECT_DIR$/profile.html" />
+        <option value="$PROJECT_DIR$/editable_table.html" />
+        <option value="$PROJECT_DIR$/couponcreation.html" />
+        <option value="$PROJECT_DIR$/couponshistory.html" />
       </list>
     </option>
   </component>
@@ -207,7 +216,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -215,7 +224,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22767204" sideWeight="0.6704918" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22767204" sideWeight="0.6704918" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -230,6 +239,27 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22767204" sideWeight="0.6704918" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -243,11 +273,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="398" column="46" selection-start="16445" selection-end="16445" vertical-scroll-proportion="0.0" vertical-offset="6593" max-vertical-offset="20893" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="48" selection-start="1825" selection-end="1825" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1734">
@@ -311,23 +336,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/couponcreation.html">
+    <entry file="file://$PROJECT_DIR$/lock_screen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="37" selection-start="3670" selection-end="3670" vertical-scroll-proportion="-9.846154" vertical-offset="1580" max-vertical-offset="8942">
+        <state line="36" column="46" selection-start="1263" selection-end="1263" vertical-scroll-proportion="-9.807693" vertical-offset="357" max-vertical-offset="1394">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/couponshistory.html">
+    <entry file="file://$PROJECT_DIR$/index-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="569" column="0" selection-start="24515" selection-end="24515" vertical-scroll-proportion="-155.13725" vertical-offset="1761" max-vertical-offset="14671">
+        <state line="260" column="18" selection-start="12307" selection-end="12307" vertical-scroll-proportion="-6.8076925" vertical-offset="4243" max-vertical-offset="22899">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="286" column="10" selection-start="11325" selection-end="11325" vertical-scroll-proportion="-16.346153" vertical-offset="4437" max-vertical-offset="17612">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/editable_table.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="10" selection-start="3831" selection-end="3831" vertical-scroll-proportion="-0.65384614" vertical-offset="1938" max-vertical-offset="11798">
+        <state line="90" column="19" selection-start="3007" selection-end="3007" vertical-scroll-proportion="-3.9230769" vertical-offset="1428" max-vertical-offset="11798">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#li#0;n#ul#0;n#li#0;n#ul#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#li#3;n#ul#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -336,23 +368,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lock_screen.html">
+    <entry file="file://$PROJECT_DIR$/couponcreation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="46" selection-start="1263" selection-end="1263" vertical-scroll-proportion="-9.807693" vertical-offset="357" max-vertical-offset="1394">
+        <state line="94" column="34" selection-start="3160" selection-end="3160" vertical-scroll-proportion="-4.6153846" vertical-offset="1478" max-vertical-offset="8942">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/couponshistory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="34" selection-start="3820" selection-end="3820" vertical-scroll-proportion="-7.470588" vertical-offset="1506" max-vertical-offset="14671">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="20" selection-start="3898" selection-end="5003" vertical-scroll-proportion="-7.076923" vertical-offset="1601" max-vertical-offset="5338">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="286" column="10" selection-start="11325" selection-end="11325" vertical-scroll-proportion="0.03119266" vertical-offset="4845" max-vertical-offset="17612">
+        <state line="101" column="47" selection-start="4160" selection-end="4160" vertical-scroll-proportion="0.20788531" vertical-offset="1601" max-vertical-offset="5338">
           <folding />
         </state>
       </provider>
